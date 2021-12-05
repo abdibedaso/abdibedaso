@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=abdibedaso&label=Profile%20views&color=0e75b6&style=flat" alt="abdibedaso" /> 
 </p>
 
-- 🔭 I’m a [Full-Stack Software Engineer](...) 
+- 🔭 I’m a [Full-Stack Java Developer](...) 
 
 - 💬 Ask me about 
    - **OOAD, Enterprise Architecture, Java, Spring, Spring Boot, Spring Cloud, Hibernate, Postgres, Mysql, MongoDB** 
