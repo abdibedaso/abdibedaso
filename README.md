@@ -8,10 +8,8 @@
 - 🔭 I’m a [Full-Stack Java Developer](...) 
 
 - 💬 Ask me about 
-   - **OOAD, Enterprise Architecture, Java, Spring, Spring Boot, Spring Cloud, Hibernate, Postgres, Mysql, MongoDB** 
-   
- - 📫 How to reach me **atbedaso@geekcolab.com**
-   
+   - **OOAD, Enterprise Architecture, Java, Spring, Spring Boot, Spring Cloud, Hibernate, Angular, Postgres, Mysql, MongoDB** 
+      
  - 👯 Connect with me <a href="https://linkedin.com/in/abdibedaso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdibedaso/" height="30" width="40" /></a> 
  
 <hr />
