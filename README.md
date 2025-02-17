@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdi T. Bedaso</h1> 
-<h3 align="center">A passionate Full-Stack Software Engineer In USA.</h3> 
+<h3 align="center">SE</h3> 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdibedaso&label=Profile%20views&color=0e75b6&style=flat" alt="abdibedaso" /> 
 </p>
 
-- 🔭 I’m a [Full-Stack Java Developer](...) 
+- 🔭 I’m a [](...) 
 
 - 💬 Ask me about 
    - **OOAD, Enterprise Architecture, Java, Spring, Spring Boot, Spring Cloud, Hibernate, Angular, Postgres, Mysql, MongoDB** 
