@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abdi T. Bedaso</h1> 
+<h2 align="center">Hi 👋, I'm Abdi T. Bedaso</h2> 
 <!-- <h3 align="center">SE</h3>  -->
 
 <details>
-  <summary> Software Engineer @GridDynamics ...  <a href="https://linkedin.com/in/abdibedaso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdibedaso/" height="30" width="40" /></a> </summary>
+  <summary><a href="#">Software Engineer @GridDynamics</a></summary>
 
   <p align="justify">
-    Professional Software Engineer with 6+ years of experience designing scalable, distributed systems across cloud environments. Skilled in Microservices, Event-Driven Architecture, Cloud-Native Services, Data Processing, Messaging, and Streaming, with a focus on building resilient, fault-tolerant solutions. Proven ability to optimize distributed systems, enhance query efficiency, and improve fault tolerance through advanced caching, real-time data streaming, and intelligent workload distribution. Recent experience in Ad Placement and Store Technologies, designing backend architectures for high-throughput systems while collaborating across industries and departments to align business and technical goals. Passionate about solving complex engineering challenges, continuously learning new technologies, and driving scalability to meet evolving industry demands.
+    Professional Software Engineer with 6+ years of experience designing scalable, distributed systems across cloud environments. Skilled in Microservices, Event-Driven Architecture, Cloud-Native Services, Data Processing, Messaging, and Streaming, with a focus on building resilient, fault-tolerant solutions. Proven ability to optimize distributed systems, enhance query efficiency, and improve fault tolerance through advanced caching, real-time data streaming, and intelligent workload distribution. Recent experience in Ad Placement and Store Technologies, designing backend architectures for high-throughput systems while collaborating across industries and departments to align business and technical goals. Passionate about solving complex engineering challenges, continuously learning new technologies, and driving scalability to meet evolving industry demands. <a href="https://linkedin.com/in/abdibedaso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdibedaso/" height="30" width="40" /></a> 
   </p>
 
 </details>
  
-<hr />
 
 #### Programming Languages & Frameworks
 <span>
@@ -48,6 +47,7 @@
   <a href="https://looker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" width="30" height="30"/></a>
 </span>
 
+<hr />
 <!-- 
 
 ### Programming Languages
