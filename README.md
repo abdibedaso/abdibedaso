@@ -1,18 +1,54 @@
 <h1 align="center">Hi 👋, I'm Abdi T. Bedaso</h1> 
-<h3 align="center">SE</h3> 
+<!-- <h3 align="center">SE</h3>  -->
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdibedaso&label=Profile%20views&color=0e75b6&style=flat" alt="abdibedaso" /> 
-</p>
+<details>
+  <summary> Software Engineer ...  <a href="https://linkedin.com/in/abdibedaso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdibedaso/" height="30" width="40" /></a> </summary>
 
-- 🔭 I’m a [](...) 
+  <p align="justify">
+    Professional Software Engineer with 6+ years of experience designing scalable, distributed systems across cloud environments. Skilled in Microservices, Event-Driven Architecture, Cloud-Native Services, Data Processing, Messaging, and Streaming, with a focus on building resilient, fault-tolerant solutions. Proven ability to optimize distributed systems, enhance query efficiency, and improve fault tolerance through advanced caching, real-time data streaming, and intelligent workload distribution. Recent experience in Ad Placement and Store Technologies, designing backend architectures for high-throughput systems while collaborating across industries and departments to align business and technical goals. Passionate about solving complex engineering challenges, continuously learning new technologies, and driving scalability to meet evolving industry demands.
+  </p>
 
-- 💬 Ask me about 
-   - **OOAD, Enterprise Architecture, Java, Spring, Spring Boot, Spring Cloud, Hibernate, Angular, Postgres, Mysql, MongoDB** 
-      
- - 👯 Connect with me <a href="https://linkedin.com/in/abdibedaso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdibedaso/" height="30" width="40" /></a> 
+</details>
  
 <hr />
+
+#### Programming Languages & Frameworks
+<span>
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></a>
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="30" height="30"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30" height="30"/></a>
+</span>
+
+---
+
+#### Cloud, Infrastructure, Storages & DevOps
+<span>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" height="30"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" height="30"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="30" height="30"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="30"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" height="30"/></a>
+  <a href="https://spinnaker.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/2/26/Spinnaker_Logo.svg" width="30" height="30"/></a>
+  <a href="https://helm.sh/" target="_blank"><img src="https://helm.sh/img/helm-logo.svg" width="30" height="30"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="30" height="30"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="30" height="30"/></a>
+  <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="30" height="30"/></a>
+  <a href="https://looker.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/looker/looker-icon.svg" width="30" height="30"/></a>
+</span>
+
+<!-- 
 
 ### Programming Languages
 
@@ -103,3 +139,5 @@
 --- 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdibedaso&theme=dark&show_icons=true)" alt="abdibedaso"/></p>
+
+  -->
